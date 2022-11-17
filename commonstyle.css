@@ -1,0 +1,192 @@
+html::-webkit-scrollbar{
+   display: none;
+   left: 0;
+   right: 0;
+   
+}
+
+.top{
+    /* display: grid;
+    grid-template-columns: 10% 10% 10% 70%;
+    grid-template-rows: min-content 20px ; */
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 100%;
+    background-image: url(images/b4.jpg);
+    background-size: 100%;
+
+}
+.top#tese{
+    /* display: grid;
+    grid-template-columns: 10% 10% 10% 70%;
+    grid-template-rows: 200px 20px ; */
+    border: 1px solid black;
+   
+}
+.toflex{
+    display: flex;
+}
+.moving_tab{
+    border:BLACK 2px SOLID;
+    background-image: url(images/bricks.jpg);
+    background-size: cover;
+    
+}
+#shoe_moving_tab{
+    font-size: xx-large;
+
+}
+
+#snake{
+    font-size: x-large;
+}
+article.marquee_line{
+    border: 1px  black;
+    width: fit-content;
+}
+
+select{
+     -webkit-appearance: none;
+  /*-moz-appearance: none;
+  text-indent: 0px;
+  text-overflow: ''; */
+}
+.shopify{
+    color: beige;
+    /* background-color:silver; */
+    grid-column-start: 1;
+    grid-column-end: 5;
+    width: 100%;
+    padding-top:5% ;
+    font-style: oblique ;
+
+
+}
+.shopify#shoe_top_wrap{
+    /* background-image: url(./images/shoe\ background.png); */
+    grid-column-start: 1;
+    grid-column-end: 5;
+
+}
+a.shopify{
+    font-size: xx-large;
+}
+.top{
+    margin-top: auto;
+}
+ h1{
+   background-color: black;
+   width: max-content;    
+   text-align: center;
+   margin-inline: auto;
+   border-radius: 75px;
+   border: 10px solid black;
+} 
+a.atop{
+    text-decoration: none;
+}
+.toflex{
+    width: 100%;
+}
+.non{
+    width: 30%;
+    background-color: navy;
+}
+.option1{
+    background-color: navy;
+    color   : beige;
+    font-style: oblique;
+    width: 10%;
+    
+    
+}
+
+.option2{
+    background-color: navy;
+    color: beige;    
+    font-style: oblique;
+    width: 10%;
+
+}
+
+.option3{
+    background-color: navy;
+    color: beige;
+    font-style: oblique;
+    width: 10%;
+}
+
+.option4{
+    background-color: navy;
+    color: beige;
+    font-style: oblique;
+    width: 15%;
+}
+
+select{
+    font-family: 'Bukhari Script', sans-serif;
+  background: navy;
+  color:beige;
+  border: none;
+  padding-top: 4px;
+  font-style: oblique;
+}
+.social_media_option{
+    color: turquoise;
+}
+
+body{
+    background-color:black;
+    left: 0;
+    right: 0;
+
+}
+
+.low{
+    margin-top: 0.5% ;
+    padding: 9px;
+    display: flex;
+    /* grid-template-columns: 10.5% 10% ;
+    grid-template-rows:40px  ; */
+    border: 1px solid orange;
+    border-radius: 10px;
+    gap: 3px;
+    background-color: silver;
+    
+}
+.non2{
+    width: 37%;
+}
+
+.cuntact_us{
+    background-color: rgb(144, 146, 122);
+    border: 2px solid rosybrown ;
+    border-radius: 17px;
+    text-align: center; 
+    margin: 4px; 
+    /* padding-top:2px ;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-right: 2px; */
+    width: 13%;
+    
+    
+}
+.about_me{
+    background-color: rgb(144, 146, 122);
+    border: 2px solid rosybrown ;
+    border-radius: 17px;
+    text-align: center;
+    margin: 4px;
+    width: 13%;
+    /* padding-top:2px ; */
+}
+
+.low_butten{
+    text-decoration: none;
+}
+
+
+
+
+

@@ -1,0 +1,103 @@
+html::-webkit-scrollbar{
+    display: none;
+    left: 0;
+    right: 0;
+    
+ }
+ 
+
+
+ .toflex{
+     display: flex;
+ }
+
+ #shoe_moving_tab{
+     font-size: xx-large;
+ 
+ }
+ 
+ #snake{
+     font-size: x-large;
+ }
+
+ 
+ .shopify{
+     color: beige;
+ 
+  
+     width: 100%;
+     margin-top:auto ;
+     font-style: oblique ;
+     font-size: xx-large;
+ }
+ .shopify#shoe_top_wrap{
+     /* background-image: url(./images/shoe\ background.png); */
+     grid-column-start: 1;
+     grid-column-end: 5;
+ 
+ }
+ a.shopify{
+     font-size: xx-large;
+ }
+
+ a.atop{
+     text-decoration: none;
+ }
+ .toflex{
+     width: 100%;
+ }
+ .non{
+     width: 30%;
+     background-color: navy;
+ }
+ .option1{
+     background-color: navy;
+     color   : beige;
+     font-style: oblique;
+     width: 10%;
+     
+     
+ }
+ 
+ .option2{
+     background-color: navy;
+     color: beige;    
+     font-style: oblique;
+     width: 10%;
+ 
+ }
+ 
+ .option3{
+     background-color: navy;
+     color: beige;
+     font-style: oblique;
+     width: 10%;
+ }
+ 
+ .option4{
+     background-color: navy;
+     color: beige;
+     font-style: oblique;
+     width: 15%;
+ }
+ 
+ select{
+     font-family: 'Bukhari Script', sans-serif;
+   background: rgba(211, 204, 219, 0.3);
+   color:beige;
+ }
+ .social_media_option{
+     color: black;
+ }
+   .top{
+    display: grid;
+    grid-template-columns:100% ;
+    grid-template-rows: 200px 20px;
+    border: 1px solid black; 
+    text-align: center;
+    width: 100%;
+    background-image: url(images/b4.jpg);
+    background-size: cover;
+    height: 200px;
+
+ }

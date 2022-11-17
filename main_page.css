@@ -1,0 +1,76 @@
+.middell{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 1/3fr 1/3fr 1/3fr ;
+    border: 1px solid black;
+}
+
+/* .men_1_wrap{
+    height: 50%;
+} */
+.men_shirt_wrap{
+    max-height: 100%;
+    max-width:100% ;
+    padding-left: 0%;
+    margin-bottom: 0%;
+    position: sticky;
+    
+}
+
+.women_shirt_wrap{
+    max-height: 100%;
+    max-width:100% ;
+    padding-left: 0%;
+    
+    
+}
+
+.men_jeans_wrap{
+    max-height: 100%;
+    max-width:100% ;
+    padding-left: 0%;
+    
+ 
+
+}
+
+.women_jeans_wrap{
+    max-height: 100%;
+    max-width:100% ;
+    padding-left: 0%;
+    
+}
+
+.man_shoe_wrap{
+    max-height: 100%;
+    max-width:100% ;
+    padding-left: 0%;
+}
+
+.women_shoe_wrap{
+    max-height: 100%;
+    max-width:100% ;
+    padding-left: 0%;
+}
+
+p{
+    text-align: left;
+    background-color: silver;
+    border: 1px solid burlywood ;
+    
+
+}
+a{
+font-family: 'Bukhari Script', sans-serif;
+   color: black;
+}
+
+/* .low{
+    margin-top: 1% ;
+    display: grid;
+    grid-template-columns: 10% 10% ;
+    grid-template-rows:20px  ;
+    border: 1px solid orange;
+    border-radius: 10px;
+    gap: 3px;
+} */

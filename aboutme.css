@@ -1,0 +1,86 @@
+
+
+
+
+
+.aboutme_wrap{
+    display: grid;
+    grid-template-columns:50% 50% ;
+    grid-template-rows: 250px 30px 300px ;
+    border: 1px solid black;
+    color: beige;
+    background-color: black;
+}
+
+.boxme_1{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start:1 ;
+    grid-row-end:1 ;
+}
+
+.aboutme_picture{
+    border-radius: 50%;
+    width:50%;
+    border: 2px solid black;
+    height: 100%;
+    /* margin: 10px; */
+    margin-left: 0%;
+    
+}
+.aboutme_name{
+    font-style: oblique;
+    grid-column-start: 1;
+    grid-column-end:2 ;
+    grid-row-start:2 ;
+    grid-row-end: 2;
+    background-color: navy;
+    color: beige;
+    text-align: center;
+}
+
+.lorem1{
+    grid-column-start: 2;
+    grid-column-end:3 ;
+    grid-row-start:1 ;
+    grid-row-end: 1;
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    border: 1px double beige;
+    
+}
+
+.lorem2{
+    grid-column-start: 1;
+    grid-column-end:2 ;
+    grid-row-start:3 ;
+    grid-row-end: 3;
+    font-size: small;
+    font-style: oblique;
+    text-align: center;
+    border: 1px double beige;
+}
+
+.letsgo_shop{
+    grid-column-start: 2;
+    grid-column-end:3 ;
+    grid-row-start:3 ;
+    grid-row-end: 3;
+    font-size: small;
+    font-style: oblique;
+    text-align: center;
+    padding-top: 40%;
+
+    color: beige;
+}
+.letsgo_shop_a{
+    background-color: beige;
+    color: black;
+    border: 3px solid beige;
+    border-radius: 75px;
+    text-decoration: none;
+    font-size: large ;
+  
+
+}

@@ -1,0 +1,52 @@
+a{
+    text-decoration: none;
+}
+.shoe_main{
+    
+    display: grid;
+    grid-template-columns: repeat(20%, 5);
+    grid-template-rows: 300px ;
+
+}
+ .toflex{
+margin-top: 0%;
+ }
+.man_bootsimg_wrap{
+    margin-top:1% ;
+    max-height: 100% ;
+    max-width: 100% ;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    width: 100%;
+    
+   
+}
+.fadein_man{
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 17px;
+    opacity:0.5;
+transition: 1s ease;
+}
+
+.fadein_man:hover{
+    opacity:1;
+    transition: 1s ease;
+    }
+
+.woman_boot_wrap{
+    margin-top: 1%;
+    max-height: 100%;
+    max-width: 100%;
+    grid-column-start: 4;
+    grid-column-end: 6;    
+}
+
+.woman_boots_img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 17px;
+    border: 1px solid silver;
+}
