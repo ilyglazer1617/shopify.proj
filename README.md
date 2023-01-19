@@ -1,5 +1,6 @@
-# shopify.project
-first project after 1 week of full stack course
+<h1> shopify.project </h1>
+<h3>My first HTML-CSS project after 1 week of full stack course</h3>
 
-# style
-Self-design in css
+this is my first web development project ! i styled it with no external libary 
+
+
